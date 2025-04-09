@@ -24,4 +24,3 @@ public class CashbackHackTest {
         Assert.assertEquals(expected, actual);
     }
 }
-
