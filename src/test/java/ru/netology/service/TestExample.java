@@ -3,7 +3,9 @@ package ru.netology.service;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class CashbackHackServiceTest {
+public class TestExample {
+
+
 
     @Test
     public void shouldReturn100IfAmountIs900() {
